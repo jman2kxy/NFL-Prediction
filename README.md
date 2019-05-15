@@ -22,6 +22,6 @@ My motivation for doing this project is my enjoyment of watching football and my
 
 ## References
 
-•	Pablo Bosch and Sandjai Bhulai. 2018. “Predicting the winner of NFL-games using Machine and Deep Learning.”
+•	Pablo Bosch and Sandjai Bhulai. 2018. “Predicting the winner of NFL-games using Machine and Deep Learning”
 
-•	Jim Warner. 2010. Predicting Margin of Victory in NFL Games: Machine Learning vs Deep Learning
+•	Jim Warner. 2010. "Predicting Margin of Victory in NFL Games: Machine Learning vs Deep Learning"
