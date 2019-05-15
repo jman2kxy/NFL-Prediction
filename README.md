@@ -10,7 +10,9 @@ How well can NFL Home Game Wins be predicted using gameday statistics, weather, 
 
 This project will focus on predicting the winner of NFL home games using machine learning methods. My motivation for doing this project is my enjoyment of watching football and my interest in connecting sports statistics to outcomes. The data to be used will be the following:
 •	NFL stats from a JSON feed on NFL.com’s live GameCenter page from the 2009 -2018 seasons
+
 •	NFL positional spending by team from Spotrac.com
+
 •	Gameday weather and conditions from NFLWeather.com
 
 ## Motivation
