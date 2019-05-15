@@ -18,7 +18,7 @@ This project will focus on predicting the winner of NFL home games using machine
 
 ## Motivation
 
-My motivation for doing this project is my enjoyment of watching football and my interest in connecting sports statistics to outcomes. I am a regular visitor to Nate Silver’s FiveThirtyEight, and I am obsessed with the numerous sports predictors on the site. I want to create similar models that I can build upon with feature, such as player-specific data.
+My motivation for doing this project is my enjoyment of watching football and my interest in connecting sports statistics to outcomes. I am a regular visitor to Nate Silver’s FiveThirtyEight, and I am obsessed with the numerous sports predictors on the site. I want to create similar models that I can build upon with other features, such as player-specific data.
 
 ## References
 
